@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"arp242.net/har"
+	"zgo.at/har"
 )
 
 func main() {
